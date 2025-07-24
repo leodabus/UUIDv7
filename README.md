@@ -1,6 +1,6 @@
 # UUIDv7
 
-Extensão Swift para gerar e decodificar UUIDv7.
+Swift extension to generate and decode UUIDv7.
 
 ## Uso
 
