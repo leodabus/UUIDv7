@@ -2,8 +2,6 @@
 
 Swift extension to generate and decode UUIDv7.
 
-[![Swift Package Index](https://swiftpackageindex.com/leodabus/UUIDv7/badge.svg)](https://swiftpackageindex.com/leodabus/UUIDv7)
-
 ## Usage
 
 ### • Generate a UUIDv7 (timestamp-based)
